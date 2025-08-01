@@ -1,0 +1,16 @@
+[
+  {
+    "customerName": "One-time_USA",
+    "q3Revenue": 31835.179525,
+    "q4Revenue": 106378.2133928,
+    "variance": 74543.0338678,
+    "variancePercent": 234.1530187045
+  },
+  {
+    "customerName": "GLD, LLC",
+    "q3Revenue": 72869.36,
+    "q4Revenue": 318640.1089,
+    "variance": 245770.7489,
+    "variancePercent": 337.2758439212
+  }
+]
