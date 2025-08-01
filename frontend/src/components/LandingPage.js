@@ -11,7 +11,7 @@ const LandingPage = () => {
     for (const file of files) {
       formData.append('files', file);
     }
-
+    
     try {
       const res = await axios.post('http://localhost:8085/api/v1/revenue/upload/files', formData);
       console.log(res.data.message);
